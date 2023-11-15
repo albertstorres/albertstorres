@@ -1,6 +1,6 @@
 Olá! 🙅‍♂️
 
-Meu nome é Albert Sevy Bezerra Torres, sou desenvolvedor backend. Estudando na Cubos Academy.
+Meu nome é Albert Sevy Bezerra Torres, sou desenvolvedor backend. Formado na Cubos Academy.
 
 ## 💻 Para me encontar:
 Linkedin
